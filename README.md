@@ -27,6 +27,7 @@ If you find our work useful in your research, please consider citing:
 
 - Software
 
+  * Ubuntu
   * Pytorch 1.10
 
   * OpenCV
